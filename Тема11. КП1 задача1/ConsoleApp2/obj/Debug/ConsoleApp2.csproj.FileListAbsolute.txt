@@ -1,0 +1,7 @@
+D:\Цвигуненко Юлия 215 группа\Тема11. КП1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Цвигуненко Юлия 215 группа\Тема11. КП1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Цвигуненко Юлия 215 группа\Тема11. КП1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Цвигуненко Юлия 215 группа\Тема11. КП1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Цвигуненко Юлия 215 группа\Тема11. КП1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Цвигуненко Юлия 215 группа\Тема11. КП1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Цвигуненко Юлия 215 группа\Тема11. КП1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
